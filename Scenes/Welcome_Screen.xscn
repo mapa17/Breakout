@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resource_file type="PackedScene" subresource_count="3" version="2.1" version_name="Godot Engine v2.1.4.stable.official">
+	<ext_resource path="res://Textures/yellow_button05.tex" type="Texture" index="1"></ext_resource>
+	<ext_resource path="res://Scripts/Welcome_Screen.gd" type="Script" index="0"></ext_resource>
+	<main_resource>
+		<dictionary name="_bundled" shared="false">
+			<string> "conn_count" </string>
+			<int> 0 </int>
+			<string> "conns" </string>
+			<int_array  len="0"> 				 </int_array>
+			<string> "editable_instances" </string>
+			<array  len="0" shared="false">
+			</array>
+			<string> "names" </string>
+			<string_array  len="28">
+				<string> "Welcome_Screen" </string>
+				<string> "script/script" </string>
+				<string> "Node2D" </string>
+				<string> "welcome_message" </string>
+				<string> "focus/ignore_mouse" </string>
+				<string> "focus/stop_mouse" </string>
+				<string> "size_flags/horizontal" </string>
+				<string> "size_flags/vertical" </string>
+				<string> "margin/left" </string>
+				<string> "margin/top" </string>
+				<string> "margin/right" </string>
+				<string> "margin/bottom" </string>
+				<string> "text" </string>
+				<string> "percent_visible" </string>
+				<string> "lines_skipped" </string>
+				<string> "max_lines_visible" </string>
+				<string> "Label" </string>
+				<string> "Tutorial" </string>
+				<string> "toggle_mode" </string>
+				<string> "enabled_focus_mode" </string>
+				<string> "shortcut" </string>
+				<string> "textures/normal" </string>
+				<string> "params/resize_mode" </string>
+				<string> "params/stretch_mode" </string>
+				<string> "__meta__" </string>
+				<string> "TextureButton" </string>
+				<string> "custom_colors/font_color" </string>
+				<string> "Game" </string>
+			</string_array>
+			<string> "node_count" </string>
+			<int> 6 </int>
+			<string> "node_paths" </string>
+			<array  len="0" shared="false">
+			</array>
+			<string> "nodes" </string>
+			<int_array  len="180"> 				-1, -1, 2, 0, -1, 1, 1, 0, 0, 0, 0, 16, 3, -1, 12, 4, 1, 5, 1, 6, 2, 7, 3, 8, 4, 9, 5, 10, 6, 11, 7, 12, 8, 13, 9, 14, 3, 15, 10, 0, 1, 0, 25, 17, -1, 15, 4, 11, 5, 1, 6, 2, 7, 2, 8, 12, 9, 13, 10, 14, 11, 15, 18, 11, 19, 2, 20, 16, 21, 17, 22, 3, 23, 3, 24, 18, 0, 2, 0, 16, 16, -1, 13, 4, 1, 5, 1, 6, 2, 7, 3, 8, 19, 9, 20, 10, 13, 11, 21, 26, 22, 12, 23, 13, 9, 14, 3, 15, 10, 0, 1, 0, 25, 27, -1, 15, 4, 11, 5, 1, 6, 2, 7, 2, 8, 24, 9, 13, 10, 25, 11, 15, 18, 11, 19, 2, 20, 16, 21, 17, 22, 3, 23, 3, 24, 26, 0, 4, 0, 16, 16, -1, 13, 4, 1, 5, 1, 6, 2, 7, 3, 8, 27, 9, 20, 10, 28, 11, 21, 26, 22, 12, 29, 13, 9, 14, 3, 15, 10, 0 </int_array>
+			<string> "variants" </string>
+			<array  len="30" shared="false">
+				<resource  external="0">  </resource>
+				<bool> True </bool>
+				<int> 2 </int>
+				<int> 0 </int>
+				<real> 125 </real>
+				<real> 184 </real>
+				<real> 619 </real>
+				<real> 283 </real>
+				<string> "Welcome to Breakout!&#000a;&#000a;If you never played breakout, start the tutorial, or if you know all about it, just start the game!" </string>
+				<real> 1 </real>
+				<int> -1 </int>
+				<bool> False </bool>
+				<real> 45 </real>
+				<real> 115 </real>
+				<real> 235 </real>
+				<real> 160 </real>
+				<resource name=""></resource>				<resource  external="1">  </resource>
+				<dictionary  shared="false">
+					<string> "_edit_group_" </string>
+					<bool> True </bool>
+				</dictionary>
+				<real> 75 </real>
+				<real> 16 </real>
+				<real> 47 </real>
+				<color> 0, 0, 0, 1 </color>
+				<string> "Tutorial" </string>
+				<real> 285 </real>
+				<real> 475 </real>
+				<dictionary  shared="false">
+					<string> "_edit_group_" </string>
+					<bool> True </bool>
+				</dictionary>
+				<real> 63 </real>
+				<real> 128 </real>
+				<string> "The Game" </string>
+			</array>
+			<string> "version" </string>
+			<int> 2 </int>
+		</dictionary>
+
+	</main_resource>
+</resource_file>

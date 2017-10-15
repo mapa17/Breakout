@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resource_file type="PackedScene" subresource_count="10" version="2.1" version_name="Godot Engine v2.1.4.stable.official">
 	<ext_resource path="res://Scripts/World.gd" type="Script" index="0"></ext_resource>
-	<ext_resource path="res://SubScenes/Normal_Paddle.tscn.xscn" type="PackedScene" index="1"></ext_resource>
 	<ext_resource path="res://Sounds/cheer-crowd.smp" type="Sample" index="7"></ext_resource>
 	<ext_resource path="res://Sounds/death.smp" type="Sample" index="4"></ext_resource>
 	<ext_resource path="res://Sounds/zap1.smp" type="Sample" index="6"></ext_resource>
 	<ext_resource path="res://Sounds/zapTwoTone2.smp" type="Sample" index="3"></ext_resource>
 	<ext_resource path="res://Sounds/powerUp6.smp" type="Sample" index="5"></ext_resource>
 	<ext_resource path="res://Sounds/pepSound2.smp" type="Sample" index="2"></ext_resource>
+	<ext_resource path="res://SubScenes/Normal_Paddle.tscn.xscn" type="PackedScene" index="1"></ext_resource>
 	<resource type="SampleLibrary" path="local://4">
 		<dictionary name="samples/ball_lost" shared="false">
 			<string> "db" </string>

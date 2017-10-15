@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resource_file type="PackedScene" subresource_count="3" version="2.1" version_name="Godot Engine v2.1.4.stable.official">
-	<ext_resource path="res://Textures/yellow_button05.tex" type="Texture" index="1"></ext_resource>
 	<ext_resource path="res://Scripts/Welcome_Screen.gd" type="Script" index="0"></ext_resource>
+	<ext_resource path="res://Textures/yellow_button05.tex" type="Texture" index="1"></ext_resource>
 	<main_resource>
 		<dictionary name="_bundled" shared="false">
 			<string> "conn_count" </string>
@@ -48,17 +48,16 @@
 			<array  len="0" shared="false">
 			</array>
 			<string> "nodes" </string>
-			<int_array  len="180"> 				-1, -1, 2, 0, -1, 1, 1, 0, 0, 0, 0, 16, 3, -1, 12, 4, 1, 5, 1, 6, 2, 7, 3, 8, 4, 9, 5, 10, 6, 11, 7, 12, 8, 13, 9, 14, 3, 15, 10, 0, 1, 0, 25, 17, -1, 15, 4, 11, 5, 1, 6, 2, 7, 2, 8, 12, 9, 13, 10, 14, 11, 15, 18, 11, 19, 2, 20, 16, 21, 17, 22, 3, 23, 3, 24, 18, 0, 2, 0, 16, 16, -1, 13, 4, 1, 5, 1, 6, 2, 7, 3, 8, 19, 9, 20, 10, 13, 11, 21, 26, 22, 12, 23, 13, 9, 14, 3, 15, 10, 0, 1, 0, 25, 27, -1, 15, 4, 11, 5, 1, 6, 2, 7, 2, 8, 24, 9, 13, 10, 25, 11, 15, 18, 11, 19, 2, 20, 16, 21, 17, 22, 3, 23, 3, 24, 26, 0, 4, 0, 16, 16, -1, 13, 4, 1, 5, 1, 6, 2, 7, 3, 8, 27, 9, 20, 10, 28, 11, 21, 26, 22, 12, 29, 13, 9, 14, 3, 15, 10, 0 </int_array>
+			<int_array  len="180"> 				-1, -1, 2, 0, -1, 1, 1, 0, 0, 0, 0, 16, 3, -1, 12, 4, 1, 5, 1, 6, 2, 7, 3, 8, 4, 9, 4, 10, 5, 11, 6, 12, 7, 13, 8, 14, 3, 15, 9, 0, 1, 0, 25, 17, -1, 15, 4, 10, 5, 1, 6, 2, 7, 2, 8, 11, 9, 12, 10, 13, 11, 14, 18, 10, 19, 2, 20, 15, 21, 16, 22, 3, 23, 3, 24, 17, 0, 2, 0, 16, 16, -1, 13, 4, 1, 5, 1, 6, 2, 7, 3, 8, 18, 9, 19, 10, 12, 11, 20, 26, 21, 12, 22, 13, 8, 14, 3, 15, 9, 0, 1, 0, 25, 27, -1, 15, 4, 10, 5, 1, 6, 2, 7, 2, 8, 23, 9, 12, 10, 24, 11, 14, 18, 10, 19, 2, 20, 15, 21, 16, 22, 3, 23, 3, 24, 25, 0, 4, 0, 16, 16, -1, 13, 4, 1, 5, 1, 6, 2, 7, 3, 8, 26, 9, 19, 10, 27, 11, 20, 26, 21, 12, 28, 13, 8, 14, 3, 15, 9, 0 </int_array>
 			<string> "variants" </string>
-			<array  len="30" shared="false">
+			<array  len="29" shared="false">
 				<resource  external="0">  </resource>
 				<bool> True </bool>
 				<int> 2 </int>
 				<int> 0 </int>
-				<real> 125 </real>
-				<real> 184 </real>
-				<real> 619 </real>
-				<real> 283 </real>
+				<real> 0 </real>
+				<real> 596 </real>
+				<real> 99 </real>
 				<string> "Welcome to Breakout!&#000a;&#000a;If you never played breakout, start the tutorial, or if you know all about it, just start the game!" </string>
 				<real> 1 </real>
 				<int> -1 </int>
